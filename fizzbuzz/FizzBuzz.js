@@ -1,4 +1,4 @@
-let index = 0;
+let index = 1;
 
 function divideBy3(index){
   return index % 3 === 0;
