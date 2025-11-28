@@ -4,7 +4,7 @@ Este projeto demonstra três abordagens diferentes para inverter a ordem de todo
 
 **Exemplo de Entrada:** `"Significados insiginficantes que resultam tudo com base em nada"`
 
-**Exemplo de Saída Esperada:** `"adan me esab moc odut matluser euq setnacifinigsni sodacifinigs"`
+**Exemplo de Saída Esperada:** `"adan me esab moc odut matluser euq setnacifnigisni sodacifingiS`
 
 ---
 
@@ -21,7 +21,6 @@ Esta é a solução mais idiomática e eficiente do JavaScript, utilizando méto
     2.  **`.reverse()`**: Inverte a ordem dos elementos no Array.
     3.  **`.join('')`**: Junta o Array invertido de volta em uma string.
 
-* **Vantagem:** É a solução mais limpa, rápida e legível.
 
 ### 2. `StringlogicalWordReverse(stringInput)` - Inversão com Loop e Concatenação
 
@@ -34,7 +33,7 @@ Esta função demonstra a lógica de inversão manual, construindo a string de s
     4.  A cada iteração do loop, o caractere da posição `last_chars` é concatenado à `reversed_chars` e, em seguida, o `last_chars` é decrementado (`last_chars--`).
     5.  O resultado é uma nova string construída de trás para frente.
 
-* **Vantagem:** Demonstra uma compreensão clara de lógica de *loops* e acesso por índice.
+
 
 ### 3. `ArrayLogicalWordReverse(stringInput)` - Inversão com Loop e Array Auxiliar
 
@@ -46,7 +45,6 @@ Esta função utiliza o conceito de **criar um novo Array** na ordem inversa e d
     3.  Após o loop, o Array `reversed_chars` está na ordem inversa.
     4.  Um loop `forEach` é usado para juntar os elementos de `reversed_chars` na string `result`. (Alternativamente, o método `join('')` poderia ser usado no final).
 
-* **Vantagem:** Pratica a manipulação de arrays por atribuição de índice (`reversed_chars[ index ] = ...`).
 
 ---
 
