@@ -8,3 +8,4 @@ Este repositório contém minhas soluções para desafios de código, exercício
 | :--- | :--- | :--- | :--- |
 | FizzBuzz | JavaScript | Concluído | [Acessar Pasta FizzBuzz](fizzbuzz/) |
 | WordReverse | JavaScript | Concluído | [Acessar Pasta WordReverse](wordreverse/) |
+| SumMatrix | JavaScript| Concluído | [Acessar Pasta SumMatrix](summatrix/) |
