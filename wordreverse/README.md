@@ -4,7 +4,7 @@ Este projeto demonstra três abordagens diferentes para inverter a ordem de todo
 
 **Exemplo de Entrada:** `"Significados insiginficantes que resultam tudo com base em nada"`
 
-**Exemplo de Saída Esperada:** `"adan me esab moc odut matluser euq setnacifnigisni sodacifingiS`
+**Exemplo de Saída Esperada:** `"adan me esab moc odut matluser euq setnacifnigisni sodacifingiS"`
 
 ---
 
