@@ -7,3 +7,4 @@ Este repositório contém minhas soluções para desafios de código, exercício
 | Desafio | Linguagem | Status | Link para a Solução |
 | :--- | :--- | :--- | :--- |
 | FizzBuzz | JavaScript | Concluído | [Acessar Pasta FizzBuzz](fizzbuzz/) |
+| WordReverse | JavaScript | Concluído | [Acessar Pasta WordReverse](wordreverse/) |
