@@ -94,5 +94,5 @@ O uso do `Map` (`countCharsMap`) é ideal, pois ele fornece o melhor desempenho 
 Para rodar este script em seu terminal:
 
 ```bash
-node char_count.js 
+node charcount.js 
 ```
