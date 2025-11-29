@@ -1,10 +1,3 @@
-
-Excelente\! Seu código implementa uma solução otimizada e robusta para contagem de frequência de caracteres.
-
-Aqui está o `README.md` completo para o seu projeto **Contagem de Ocorrências de Caracteres** (`char-count/README.md`), destacando a eficiência da sua solução.
-
------
-
 ## 📊 Desafio: Contagem de Ocorrências de Caracteres (Character Count)
 
 Este projeto resolve o problema de calcular a frequência de cada caractere em uma *string* de forma eficiente, utilizando manipulação de *strings*, **Expressões Regulares** e a estrutura de dados **`Map`**.
