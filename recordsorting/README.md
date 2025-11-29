@@ -25,7 +25,7 @@ const userRecords = [
 
 -----
 
-###Implementação Original (Filtragem por Loop)
+### Implementação Original (Filtragem por Loop)
 
 Minha solução utiliza funções separadas (`select` e `sort`) para delegar responsabilidades, o que é um bom princípio de programação. A filtragem é feita manualmente com um `forEach` e um *array* auxiliar (`result`).
 
